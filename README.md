@@ -1,9 +1,4 @@
 # data-insights-portfolio
-Overview
-This repository is a curated collection of data analysis projects showcasing my proficiency in the end-to-end data workflow. These projects demonstrate my ability to perform data cleaning, transformation, analysis, and compelling visualization to derive actionable insights and solve real-world problems.
-
-That's a great start! To make your README engaging and informative, here's a suggested structure and content that clearly communicates the value of your project collection.
-
 📊 Data Analysis Portfolio
 Overview
 This repository is a curated collection of data analysis projects showcasing my proficiency in the end-to-end data workflow. These projects demonstrate my ability to perform data cleaning, transformation, analysis, and compelling visualization to derive actionable insights and solve real-world problems.
