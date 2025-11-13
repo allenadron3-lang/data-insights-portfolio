@@ -1,5 +1,5 @@
-# data-insights-portfolio
-📊 Data Analysis Portfolio
+
+# 📊 Data Analysis Portfolio
 Overview:
 
 This repository is a curated collection of data analysis projects showcasing my proficiency in the end-to-end data workflow. These projects demonstrate my ability to perform data cleaning, transformation, analysis, and compelling visualization to derive actionable insights and solve real-world problems.
